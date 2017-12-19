@@ -12,7 +12,7 @@ url: https://ecell-tkrcet.github.io/  # url should be 'http://<github_username>.
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: TKRCET  # Be used at blog posts' author.
-  desc: E-cell is a perfect place to start. To make your dreams come true.  # Describe yourself.
+  desc: Entrepreneurship Cell is a student body of TKRCET, formed in 2017 solely with the purpose of inspiring and guiding students in the right path and to foster an entrepreneurial culture in the campus of TKRCET.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
