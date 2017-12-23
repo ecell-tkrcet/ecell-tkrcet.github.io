@@ -1169,6 +1169,19 @@ label.error {
   }
 }
 
+@media only screen and (min-width: 768px) {
+  .custom-event-ppp {
+    p {
+      position: absolute; 
+      bottom: 0; 
+      right: 0; 
+      width: 100px; 
+      text-align:right; 
+      color: #1e90ff !important;
+    }
+  }
+}
+
 @media only screen and (min-width: 1170px) {
   .center-orientation {
     .vertical-timeline-content {

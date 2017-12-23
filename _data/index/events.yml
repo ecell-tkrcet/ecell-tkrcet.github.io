@@ -9,9 +9,11 @@
   date:
     detail: Jan. 2018
     i18n: event_1_date
-  job: #in our case we use this is venue aka place of event
+  place: #in our case we use this is venue aka place of event
     detail: somewhere
     i18n: event_1_job
+  link:
+    detail:
   icon: fa-plus-square
 
 - name:
@@ -23,7 +25,9 @@
   date:
     detail: Jan. 2018
     i18n: event_2_date
-  job: #in our case we use this is venue aka place of event
+  place: #in our case we use this is venue aka place of event
     detail: somewhere
     i18n: event_2_job
+  link:
+    detail:
   icon: fa-plus-square
