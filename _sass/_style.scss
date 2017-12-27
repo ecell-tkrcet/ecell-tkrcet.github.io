@@ -2381,7 +2381,7 @@ body {
     }
   }
   section p {
-    color: #aeaeae;
+    color: #666666;
     font-size: 13px;
   }
   h1 {
@@ -2390,9 +2390,15 @@ body {
     font-weight: 200;
   }
   .navy-line {
-    width: 60px;
+    width: 150px;
     height: 1px;
     margin: 60px auto 0;
+    border-bottom: 2px solid #3385FF;
+  }
+  .navy-line-bottom {
+    width: 150px;
+    height: 1px;
+    margin: 18px auto 18px;
     border-bottom: 2px solid #3385FF;
   }
   .navbar-wrapper {
