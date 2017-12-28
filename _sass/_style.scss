@@ -1874,6 +1874,30 @@ ul.clear-list:first-child {
   line-height: 22px;
 }
 
+#quoteSection {
+  position: relative;
+  padding: 20px 45px;
+  background-color: #ffffff;
+}
+
+#quote {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  clear: both;
+  font-size: 2.5em;
+  color: #000000;
+}
+
+#author {
+  width: 100%;
+  height: auto;
+  clear: both;
+  font-size: 1.5em;
+  text-align: right;
+  color: #fa2031;
+}
+
 .article h1, .blog h2 {
   font-weight: 700;
 }
