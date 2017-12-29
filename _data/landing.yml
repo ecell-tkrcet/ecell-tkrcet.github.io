@@ -26,8 +26,16 @@
 - tpl: projects.html
   css: project
 
+- id: team
+  i18n: nav.team
+  name: Team
+  tpl: team.html
+  page: team/
+  css:
+
 - id: contact
   i18n: nav.link
   name: contact
   tpl: contact.html
   css: contact
+
