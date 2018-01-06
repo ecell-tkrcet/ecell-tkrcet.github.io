@@ -1,33 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Event 1
+    detail: Oreintation Day
     i18n: event_1
   desc:
-    detail: Upcoming Event 1 ...
+    detail: welcome to our inaugural 
     i18n: event_1_desc
   date:
-    detail: Jan. 2018
+    detail: Jan 8th. 2018
     i18n: event_1_date
   place: #in our case we use this is venue aka place of event
-    detail: somewhere
+    detail: TKR College
     i18n: event_1_job
   link:
     detail:
   icon: fa-plus-square
 
-- name:
-    detail: Event 2
-    i18n: event_2
-  desc:
-    detail: Upcoming Event 2 ...
-    i18n: event_2_desc
-  date:
-    detail: Jan. 2018
-    i18n: event_2_date
-  place: #in our case we use this is venue aka place of event
-    detail: somewhere
-    i18n: event_2_job
-  link:
-    detail:
-  icon: fa-plus-square
+#- name:
+ #   detail: Event 2
+  #  i18n: event_2
+  #desc:
+  #  detail: Upcoming Event 2 ...
+  #  i18n: event_2_desc
+  #date:
+  #  detail: Jan. 2018
+  #  i18n: event_2_date
+  #place: #in our case we use this is venue aka place of event
+  #  detail: somewhere
+  #  i18n: event_2_job
+  #link:
+  #  detail:
+  #icon: fa-plus-square
