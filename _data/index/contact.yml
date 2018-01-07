@@ -1,18 +1,20 @@
 # contacts section data
-- last_name: Name 1
-  first_name:
+- last_name: Shivanand
+  first_name: Buyakar
   desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  website: 
+  email: cvanandbykr@gmail.com
+  phone: +919703394689
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Rohit
+  first_name: GJ
+  desc: Deputy CEO
+  website: 
+  email: rohitgj07@gmail.com
+  phone: +918686370446
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Tkrcet-Ecell
+  first_name:
+  desc: 
+  website: https://ecell-tkrcet.github.io
+  email: ecell.tkrcet@gmail.com
