@@ -1,5 +1,5 @@
 .at-section__title__head {
-  margin: 20px 0 70px;
+  margin: 75px 0 70px;
   color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 3.5rem;
@@ -14,7 +14,6 @@
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 2.625rem;
-  text-align: center;
 }
 .at-grid {
   display: -webkit-box;

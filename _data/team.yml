@@ -1,0 +1,28 @@
+# team sub sections
+- id: CEO
+  href: ceo
+
+- id: HR
+  href: hr
+
+- id: SECRETARY
+  href: sec
+
+- id: FINANCE
+  href: fin
+
+- id: OPERATIONS
+  href: op
+
+- id: MEDIA
+  href: media
+
+- id: ORGANIZERS
+  href: prog
+
+- id: IMPACT
+  href: report
+
+- id: WEB
+  href: web
+
