@@ -15,7 +15,7 @@
                     <div class="vertical-timeline-icon navy-bg wow rotateIn">
                         <i class="fa {{ events.icon }}"></i>
                     </div>
-                    <a href="{{ events.link.detail }}">
+                    <a href="{{ events.link.detail | prepend: site.baseurl }}">
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="events.{{ events.name.i18n }}">{{ events.name.detail }}</span></h2>
                         <p><span data-i18n="events.{{ events.desc.i18n }}">{{ events.desc.detail }} </span></p>
