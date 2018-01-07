@@ -18,9 +18,11 @@
   tpl: skills.html
   css: team
 
-- i18n: nav.blog
+- id: blog
+  i18n: nav.blog
+  name: Blog
   tpl: blog.html
-  page: 
+  page: blog/
   css: 
 
 - tpl: projects.html
