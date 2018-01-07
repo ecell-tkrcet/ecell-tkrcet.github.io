@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Oreintation Day
+    detail: Orientation Day
     i18n: event_1
   desc:
     detail: welcome to our inaugural 
     i18n: event_1_desc
   date:
-    detail: Jan 8th. 2018
+    detail: Jan 8th, 2018
     i18n: event_1_date
   place: #in our case we use this is venue aka place of event
-    detail: TKR College
+    detail: TKR College Auditorium
     i18n: event_1_job
   link:
     detail:
